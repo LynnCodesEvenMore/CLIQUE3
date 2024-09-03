@@ -1,3 +1,3 @@
-all: Main.cpp
+all: Algorithms.cpp
 	@echo "Compiling..."
-	g++ -o Main Main.cpp Graph.cpp
+	g++ -o Main Algorithms.cpp Graph.cpp
